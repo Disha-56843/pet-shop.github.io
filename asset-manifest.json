@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Disha-56843/pet-shop.github.io.git/static/css/main.0701e276.css",
-    "main.js": "/Disha-56843/pet-shop.github.io.git/static/js/main.515b49f2.js",
+    "main.js": "/Disha-56843/pet-shop.github.io.git/static/js/main.ed594fc8.js",
     "static/media/banner-img.png": "/Disha-56843/pet-shop.github.io.git/static/media/banner-img.b7e307a9091e7fcf379c.png",
     "static/media/banner-img3.png": "/Disha-56843/pet-shop.github.io.git/static/media/banner-img3.bf22cd40e9b2bebdd795.png",
     "static/media/banner-img2.png": "/Disha-56843/pet-shop.github.io.git/static/media/banner-img2.68cc672e9a58af0ef29e.png",
@@ -44,10 +44,10 @@
     "static/media/reviewer-3.jpg": "/Disha-56843/pet-shop.github.io.git/static/media/reviewer-3.bc11c8b85ed42eb79522.jpg",
     "index.html": "/Disha-56843/pet-shop.github.io.git/index.html",
     "main.0701e276.css.map": "/Disha-56843/pet-shop.github.io.git/static/css/main.0701e276.css.map",
-    "main.515b49f2.js.map": "/Disha-56843/pet-shop.github.io.git/static/js/main.515b49f2.js.map"
+    "main.ed594fc8.js.map": "/Disha-56843/pet-shop.github.io.git/static/js/main.ed594fc8.js.map"
   },
   "entrypoints": [
     "static/css/main.0701e276.css",
-    "static/js/main.515b49f2.js"
+    "static/js/main.ed594fc8.js"
   ]
 }
